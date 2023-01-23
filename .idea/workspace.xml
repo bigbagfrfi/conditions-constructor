@@ -4,6 +4,7 @@
     <list default="true" id="6a761a48-c222-4de7-8d56-ab6465bfa441" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674501968446</updated>
-      <workItem from="1674501973429" duration="1052000" />
+      <workItem from="1674501973429" duration="1770000" />
     </task>
     <servers />
   </component>
